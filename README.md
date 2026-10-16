@@ -2,7 +2,7 @@
 In this project we analysis the data of customers where we analyse behaviour of customer which business to change strategies and help to understand the customer needs. 
 
 
-# 📊 End-to-End Data Analytics Project
+#  End-to-End Data Analytics Project
 
 ## 1. Overview
 
