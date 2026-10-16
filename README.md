@@ -14,11 +14,11 @@ The project also includes a detailed analytical report and a presentation create
 
 ## 2. Dataset
 
-- **Dataset Name:** [Enter dataset name]
-- **Source:** [Enter dataset source or download link]
-- **Format:** CSV / Excel / Database
-- **Description:** [Briefly describe the dataset]
-- **Key Columns:** [List important columns]
+- **Dataset Name:** customer_shopping_behavior
+- **Source:** Kaggel
+- **Format:** CSV
+- **Description:** In this dataset we saw the subscription status and how many time they purchases and also see previous purchases which help to identify the                         loyal customers. This dataset help us to understand the behaviour of customers which help for business growth and customer needs 
+- **Key Columns:** purchase_amount, subscription_status, category, age, gender, previous_purchases
 
 The dataset was examined for missing values, duplicate records, inconsistent formats, and other data quality issues before analysis.
 
@@ -82,8 +82,8 @@ The Power BI dashboard provides a visual summary of the analysis and helps users
 
 **Dashboard Preview**
 
-<!-- Add your Power BI dashboard screenshot here -->
-![Power BI Dashboard](images/dashboard.png)
+
+Power BI Dashboard(Dashboard.png)
 
 **Dashboard Features**
 - Key performance indicators (KPIs)
@@ -97,10 +97,10 @@ The Power BI dashboard provides a visual summary of the analysis and helps users
 
 The analysis aims to identify meaningful patterns and answer relevant business questions.
 
-- **Key Finding 1:** [Describe an important insight supported by your analysis.]
-- **Key Finding 2:** [Describe a significant trend or comparison.]
-- **Key Finding 3:** [Describe an important business metric or result.]
-- **Recommendation:** [Explain an actionable recommendation based on your findings.]
+- **Key Finding 1:** we saw that after regular purchases customer is not buy subscription plan
+- **Key Finding 2:** Majority of revenue come from non-subscribers customers
+- **Key Finding 3:** According to age group, Young adults have the highest contribution in revenue
+- **Recommendation:** If we make subscription plan more attractive like give extra discounts to subscribers and make plan price affordable. 
 
 *Add actual results from your project rather than estimated or assumed findings.*
 
